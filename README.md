@@ -1,1 +1,1 @@
-# codemate-test-repo
+This is test repo to validate Codemate on PCAI
